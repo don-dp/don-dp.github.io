@@ -1,3 +1,4 @@
 title: don-dp
 description: blog
 theme: minima
+permalink: /:title/
